@@ -1,0 +1,2 @@
+inherit_from:
+  - https://git.thebeansgroup.com/engineering/guidelines/raw/master/config/rubocop.yml
